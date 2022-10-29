@@ -169,7 +169,227 @@ const Scene = () => {
           girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
           ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
           are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
-          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅ
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou
+          are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai
+          girl ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅYou are so kawai girl
+          ฅ^•ﻌ•^ฅYou are so kawai girl ฅ^•ﻌ•^ฅ
         </p>
       </div>
     </div>
